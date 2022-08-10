@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 9999,
   "WEI_COST": 0,
   "DISPLAY_COST": 0,
-  "GAS_LIMIT": 3000000,
+  "GAS_LIMIT": 300000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/among-cats",
   "SHOW_BACKGROUND": true
