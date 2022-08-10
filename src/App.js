@@ -124,10 +124,10 @@ function App() {
     blockchain.smartContract.methods
       .safeMint(blockchain.account, 1)
       .send({
-        gasLimit: String(totalGasLimit),
+        gasLimit: 285000,
         to: CONFIG.CONTRACT_ADDRESS,
         from: blockchain.account,
-        value: totalCostWei,
+        value: blockchain.web3.utils.toWei((.02 * 1).toString(), "ether"),
       })
       .once("error", (err) => {
         console.log(err);
