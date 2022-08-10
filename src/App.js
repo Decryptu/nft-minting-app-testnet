@@ -267,13 +267,13 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Among Cats is a free mint, limited at 1 NFT per wallet. Mint will stop at 9000 NFTs, 999 are locked by the team.
+                  Among Cats is a free mint, limited at 1 NFT per wallet.
                 </s.TextTitle>
                 <s.SpacerXSmall />
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Excluding gas fees.
+                  Mint will stop at 9000 NFTs, 999 are locked by the team.
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
