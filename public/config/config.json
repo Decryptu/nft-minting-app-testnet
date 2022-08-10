@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0ACa6ea319867266a051772c630cD1A71FB601FF",
+  "SCAN_LINK": "https://etherscan.io/address/0x0ACa6ea319867266a051772c630cD1A71FB601FF",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Among Cats",
+  "SYMBOL": "CREW",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/among-cats",
+  "SHOW_BACKGROUND": true
+}
